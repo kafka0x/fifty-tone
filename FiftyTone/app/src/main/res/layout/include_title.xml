@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/rl_include_title"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp40"
+                android:background="@color/blue">
+
+    <ImageView
+        android:id="@+id/im_left"
+        android:layout_width="@dimen/dp40"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/dp15"
+        android:paddingRight="@dimen/dp10"
+        android:src="@drawable/arrow_left"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/im_left"
+        android:gravity="center"
+        android:paddingLeft="@dimen/dp10"
+        android:paddingRight="@dimen/dp15"
+        android:text="设置"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp14"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:lines="1"
+        android:text=""
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp16"/>
+
+    <ImageView
+        android:id="@+id/im_right"
+        android:layout_width="@dimen/dp40"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:paddingEnd="@dimen/dp10"
+        android:paddingStart="@dimen/dp10"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_right"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:paddingEnd="@dimen/dp10"
+        android:paddingStart="@dimen/dp10"
+        android:text="账单"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp14"
+        android:visibility="gone"/>
+
+</RelativeLayout>

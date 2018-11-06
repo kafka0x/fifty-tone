@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="fifty_tone_imgs_1">
+        <item>@drawable/a1</item>
+        <item>@drawable/i1</item>
+        <item>@drawable/u1</item>
+        <item>@drawable/e1</item>
+        <item>@drawable/o1</item>
+        <item>@drawable/ka1</item>
+        <item>@drawable/ki1</item>
+        <item>@drawable/ku1</item>
+        <item>@drawable/ke1</item>
+        <item>@drawable/ko1</item>
+        <item>@drawable/sa1</item>
+        <item>@drawable/shi1</item>
+        <item>@drawable/su1</item>
+        <item>@drawable/se1</item>
+        <item>@drawable/so1</item>
+        <item>@drawable/ta1</item>
+        <item>@drawable/chi1</item>
+        <item>@drawable/tsu1</item>
+        <item>@drawable/te1</item>
+        <item>@drawable/to1</item>
+        <item>@drawable/na1</item>
+        <item>@drawable/ni1</item>
+        <item>@drawable/nu1</item>
+        <item>@drawable/ne1</item>
+        <item>@drawable/no1</item>
+        <item>@drawable/ha1</item>
+        <item>@drawable/hi1</item>
+        <item>@drawable/fu1</item>
+        <item>@drawable/he1</item>
+        <item>@drawable/ho1</item>
+        <item>@drawable/ma1</item>
+        <item>@drawable/mi1</item>
+        <item>@drawable/mu1</item>
+        <item>@drawable/me1</item>
+        <item>@drawable/mo1</item>
+        <item>@drawable/ya1</item>
+        <item>@drawable/yu1</item>
+        <item>@drawable/yo1</item>
+        <item>@drawable/ra1</item>
+        <item>@drawable/ri1</item>
+        <item>@drawable/ru1</item>
+        <item>@drawable/re1</item>
+        <item>@drawable/ro1</item>
+        <item>@drawable/wa1</item>
+        <item>@drawable/n1</item>
+    </integer-array>
+
+    <integer-array name="fifty_tone_imgs_2">
+        <item>@drawable/a2</item>
+        <item>@drawable/i2</item>
+        <item>@drawable/u2</item>
+        <item>@drawable/e2</item>
+        <item>@drawable/o2</item>
+        <item>@drawable/ka2</item>
+        <item>@drawable/ki2</item>
+        <item>@drawable/ku2</item>
+        <item>@drawable/ke2</item>
+        <item>@drawable/ko2</item>
+        <item>@drawable/sa2</item>
+        <item>@drawable/shi2</item>
+        <item>@drawable/su2</item>
+        <item>@drawable/se2</item>
+        <item>@drawable/so2</item>
+        <item>@drawable/ta2</item>
+        <item>@drawable/chi2</item>
+        <item>@drawable/tsu2</item>
+        <item>@drawable/te2</item>
+        <item>@drawable/to2</item>
+        <item>@drawable/na2</item>
+        <item>@drawable/ni2</item>
+        <item>@drawable/nu2</item>
+        <item>@drawable/ne2</item>
+        <item>@drawable/no2</item>
+        <item>@drawable/ha2</item>
+        <item>@drawable/hi2</item>
+        <item>@drawable/fu2</item>
+        <item>@drawable/he2</item>
+        <item>@drawable/ho2</item>
+        <item>@drawable/ma2</item>
+        <item>@drawable/mi2</item>
+        <item>@drawable/mu2</item>
+        <item>@drawable/me2</item>
+        <item>@drawable/mo2</item>
+        <item>@drawable/ya2</item>
+        <item>@drawable/yu2</item>
+        <item>@drawable/yo2</item>
+        <item>@drawable/ra2</item>
+        <item>@drawable/ri2</item>
+        <item>@drawable/ru2</item>
+        <item>@drawable/re2</item>
+        <item>@drawable/ro2</item>
+        <item>@drawable/wa2</item>
+        <item>@drawable/n2</item>
+    </integer-array>
+
+    <integer-array name="fifty_tone_imgs_3">
+        <item>@drawable/a3</item>
+        <item>@drawable/i3</item>
+        <item>@drawable/u3</item>
+        <item>@drawable/e3</item>
+        <item>@drawable/o3</item>
+        <item>@drawable/ka3</item>
+        <item>@drawable/ki3</item>
+        <item>@drawable/ku3</item>
+        <item>@drawable/ke3</item>
+        <item>@drawable/ko3</item>
+        <item>@drawable/sa3</item>
+        <item>@drawable/shi3</item>
+        <item>@drawable/su3</item>
+        <item>@drawable/se3</item>
+        <item>@drawable/so3</item>
+        <item>@drawable/ta3</item>
+        <item>@drawable/chi3</item>
+        <item>@drawable/tsu3</item>
+        <item>@drawable/te3</item>
+        <item>@drawable/to3</item>
+        <item>@drawable/na3</item>
+        <item>@drawable/ni3</item>
+        <item>@drawable/nu3</item>
+        <item>@drawable/ne3</item>
+        <item>@drawable/no3</item>
+        <item>@drawable/ha3</item>
+        <item>@drawable/hi3</item>
+        <item>@drawable/fu3</item>
+        <item>@drawable/he3</item>
+        <item>@drawable/ho3</item>
+        <item>@drawable/ma3</item>
+        <item>@drawable/mi3</item>
+        <item>@drawable/mu3</item>
+        <item>@drawable/me3</item>
+        <item>@drawable/mo3</item>
+        <item>@drawable/ya3</item>
+        <item>@drawable/yu3</item>
+        <item>@drawable/yo3</item>
+        <item>@drawable/ra3</item>
+        <item>@drawable/ri3</item>
+        <item>@drawable/ru3</item>
+        <item>@drawable/re3</item>
+        <item>@drawable/ro3</item>
+        <item>@drawable/wa3</item>
+        <item>@drawable/n3</item>
+    </integer-array>
+
+    <integer-array name="dullness_imgs_1">
+        <item>@drawable/ba1</item>
+        <item>@drawable/be1</item>
+        <item>@drawable/bi1</item>
+        <item>@drawable/bo1</item>
+        <item>@drawable/bu1</item>
+        <item>@drawable/da1</item>
+        <item>@drawable/de1</item>
+        <item>@drawable/do1</item>
+        <item>@drawable/ga1</item>
+        <item>@drawable/ge1</item>
+        <item>@drawable/gi1</item>
+        <item>@drawable/go1</item>
+        <item>@drawable/gu1</item>
+        <item>@drawable/ji1</item>
+        <item>@drawable/jii1</item>
+        <item>@drawable/pa1</item>
+        <item>@drawable/pe1</item>
+        <item>@drawable/pi1</item>
+        <item>@drawable/po1</item>
+        <item>@drawable/pu1</item>
+        <item>@drawable/za1</item>
+        <item>@drawable/ze1</item>
+        <item>@drawable/zo1</item>
+        <item>@drawable/zu1</item>
+        <item>@drawable/zuu1</item>
+    </integer-array>
+
+    <integer-array name="dullness_imgs_2">
+        <item>@drawable/ba2</item>
+        <item>@drawable/be2</item>
+        <item>@drawable/bi2</item>
+        <item>@drawable/bo2</item>
+        <item>@drawable/bu2</item>
+        <item>@drawable/da2</item>
+        <item>@drawable/de2</item>
+        <item>@drawable/do2</item>
+        <item>@drawable/ga2</item>
+        <item>@drawable/ge2</item>
+        <item>@drawable/gi2</item>
+        <item>@drawable/go2</item>
+        <item>@drawable/gu2</item>
+        <item>@drawable/ji2</item>
+        <item>@drawable/jii2</item>
+        <item>@drawable/pa2</item>
+        <item>@drawable/pe2</item>
+        <item>@drawable/pi2</item>
+        <item>@drawable/po2</item>
+        <item>@drawable/pu2</item>
+        <item>@drawable/za2</item>
+        <item>@drawable/ze2</item>
+        <item>@drawable/zo2</item>
+        <item>@drawable/zu2</item>
+        <item>@drawable/zuu2</item>
+    </integer-array>
+
+    <integer-array name="dullness_imgs_3">
+        <item>@drawable/ba3</item>
+        <item>@drawable/be3</item>
+        <item>@drawable/bi3</item>
+        <item>@drawable/bo3</item>
+        <item>@drawable/bu3</item>
+        <item>@drawable/da3</item>
+        <item>@drawable/de3</item>
+        <item>@drawable/do3</item>
+        <item>@drawable/ga3</item>
+        <item>@drawable/ge3</item>
+        <item>@drawable/gi3</item>
+        <item>@drawable/go3</item>
+        <item>@drawable/gu3</item>
+        <item>@drawable/ji3</item>
+        <item>@drawable/jii3</item>
+        <item>@drawable/pa3</item>
+        <item>@drawable/pe3</item>
+        <item>@drawable/pi3</item>
+        <item>@drawable/po3</item>
+        <item>@drawable/pu3</item>
+        <item>@drawable/za3</item>
+        <item>@drawable/ze3</item>
+        <item>@drawable/zo3</item>
+        <item>@drawable/zu3</item>
+        <item>@drawable/zuu3</item>
+    </integer-array>
+
+    <integer-array name="difficult_tone_imgs_1">
+        <item>@drawable/bya1</item>
+        <item>@drawable/byo1</item>
+        <item>@drawable/byu1</item>
+
+        <item>@drawable/cha1</item>
+        <item>@drawable/cho1</item>
+        <item>@drawable/chu1</item>
+
+        <item>@drawable/gya1</item>
+        <item>@drawable/gyo1</item>
+        <item>@drawable/gyu1</item>
+
+        <item>@drawable/hya1</item>
+        <item>@drawable/hyo1</item>
+        <item>@drawable/hyu1</item>
+
+        <item>@drawable/ja1</item>
+        <item>@drawable/jo1</item>
+        <item>@drawable/ju1</item>
+
+        <item>@drawable/kya1</item>
+        <item>@drawable/kyo1</item>
+        <item>@drawable/kyu1</item>
+
+        <item>@drawable/mya1</item>
+        <item>@drawable/myo1</item>
+        <item>@drawable/myu1</item>
+
+        <item>@drawable/nya1</item>
+        <item>@drawable/nyo1</item>
+        <item>@drawable/nyu1</item>
+
+        <item>@drawable/pya1</item>
+        <item>@drawable/pyo1</item>
+        <item>@drawable/pyu1</item>
+
+        <item>@drawable/rya1</item>
+        <item>@drawable/ryo1</item>
+        <item>@drawable/ryu1</item>
+
+        <item>@drawable/sha1</item>
+        <item>@drawable/sho1</item>
+        <item>@drawable/shu1</item>
+    </integer-array>
+
+</resources>
